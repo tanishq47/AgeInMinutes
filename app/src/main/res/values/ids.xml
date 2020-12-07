@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnDatePicker" type="id"></item>
+    <item name="tvSelectedDate" type="id"></item>
+    <item name="tvSelectedDateInMinutes" type="id"></item>
+</resources>
